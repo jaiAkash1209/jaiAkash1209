@@ -1,74 +1,65 @@
+# 🚀 Jai Akash
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=Jai%20Akash&fontSize=50&fontColor=ffffff&desc=Embedded%20Systems%20%7C%20AI%20%7C%20IoT)
+
+![Typing](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=ECE+Student;Embedded+Systems+Developer;AI+and+IoT+Enthusiast;Future+Semiconductor+Engineer)
 
 ---
 
-### 🛠️ Technical Skill Matrix
+# 👨‍💼 About Me
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Programming Languages** | `Python` `C` `Embedded C` `Java` `JavaScript` `HTML5` `CSS3` `SQL` |
-| **Microcontrollers & IoT** | `ESP32` `Arduino` `FreeRTOS` `UART` `I2C` `SPI` `HC-05 BLE` `Wi-Fi` `RS485` |
-| **AI & Signal ML** | `PyTorch` `Scikit-learn` `OpenCV` `Time-Series Wearable AI` `Computer Vision` |
-| **Hardware & Engineering** | `PCB Design` `Schematic Capture` `Relay Logic` `Current Transformers` |
-| **Software Tools & Cloud** | `Flask API` `Git & GitHub` `VS Code` `Android Studio` `MATLAB` |
-| **Future VLSI Research** | `Verilog HDL` `Digital IC Design` `FPGA Synthesis` `TinyML Silicon` |
+Electronics & Communication Engineering student interested in Embedded Systems, Artificial Intelligence, IoT, Robotics, and Semiconductor Technology.
 
----
+## 🛠️ Technology Stack
 
-### 🔬 Featured Engineering Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 1. 🤖 [AI-Based Activity Recognition Using Wearable Sensors](https://github.com/jaiAkash1209)
-> **Wearable AI & Signal Machine Learning**
-- **Problem**: Health monitors struggle to categorize human motion patterns in real-time on low-power hardware.
-- **Solution**: Built an edge AI framework processing tri-axial IMU signals with **96.4% classification accuracy**.
-- **Tech**: `Python`, `Wearable Sensors`, `Scikit-Learn`, `IMU Accelerometer`, `Edge Computing`
+## 📊 Dashboard
 
-#### 2. ⚡ [Smart Pneumatic Cylinder Analyzer](https://github.com/jaiAkash1209)
-> **Industrial Automation & IoT Telemetry**
-- **Problem**: Pneumatic air leaks cause sudden assembly line shutdowns and high downtime costs.
-- **Solution**: Engineered an ESP32 telemetry diagnostic unit predicting pressure degradation prior to failure.
-- **Tech**: `ESP32`, `Pressure Sensors`, `C++`, `IoT Telemetry`, `Flask Backend`
+| Category | Details |
+|---|---|
+| Degree | B.E. ECE |
+| College | Meenakshi Sundararajan Engineering College |
+| Location | Chennai, India |
+| Interests | AI, Embedded, IoT, Semiconductor |
 
-#### 3. 🌿 [AgroMind AI — Smart Agriculture Diagnostic System](https://github.com/jaiAkash1209)
-> **Computer Vision & Multispectral IoT Mesh**
-- **Problem**: Farmers lack automated crop pathology diagnosis and real-time soil nutrient management.
-- **Solution**: Combined OpenCV crop leaf pathology recognition with multispectral IoT sensor nodes for automated irrigation.
-- **Tech**: `Python`, `OpenCV`, `Machine Learning`, `ESP32`, `IoT Sensors`
+## 🚀 Projects
 
-#### 4. 🔌 [Smart Load Shedding & Power Prioritizer](https://github.com/jaiAkash1209)
-> **Power Electronics & Automation**
-- **Problem**: Grid fluctuations cause facility blackouts during emergency generator load spikes.
-- **Solution**: Designed a 15ms relay trip response micro-grid control shedding non-essential circuits dynamically.
-- **Tech**: `Arduino`, `Current Transformers`, `Relay Matrix`, `Embedded C`
+| Project | Status |
+|---|---|
+| Smart Load Prioritizer | 🚧 |
+| AI Pest Detection | ✅ |
+| Smart Water Management | ✅ |
+| Motion Music Synthesizer | ✅ |
+| Heavy Payload Drone | 🔬 |
 
----
+## 📈 GitHub
 
-### 📚 Research Papers & Whitepapers
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jaiAkash1209&show_icons=true&theme=tokyonight&hide_border=true)
 
-- 📄 **Wearable AI & Sensor Signal Classification for Human Motion Dynamics** (2025)
-- 📄 **Predictive Telemetry & Anomaly Detection in Smart Industrial Pneumatic Systems** (2024)
-- 📄 **Systolic Array Logic Synthesis for Low-Power Micro-Neural Edge Accelerators** (2025)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaiAkash1209&layout=compact&theme=tokyonight&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=jaiAkash1209&theme=tokyonight&hide_border=true)
 
-### 📊 GitHub Activity & Statistics
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiAkash1209&theme=tokyo-night&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiAkash1209&show_icons=true&theme=dark" alt="Jai Akash's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiAkash1209&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+## 🏆 Achievements
 
----
+- ARAM Hackathon
+- Code of Thrones
+- MSEC Product Designing Challenge
 
-### 📬 Connect with Me
+## 📫 Contact
 
-- 📧 **Email**: [jaiakash.official@gmail.com](mailto:jaiakash.official@gmail.com)
-- 🐙 **GitHub**: [@jaiAkash1209](https://github.com/jaiAkash1209)
-- 💼 **LinkedIn**: [linkedin.com/in/jaiakash](https://linkedin.com)
-- 📌 **Location**: Tamil Nadu, India / Global
+- **Email:** jaiakasht0101@gmail.com
+- **GitHub:** https://github.com/jaiAkash1209
+- **LinkedIn:** https://www.linkedin.com/in/jai-akash-04537236a
 
----
-
-<p align="center">
-  <sub>"Engineering the Future with Intelligence." — <b>Jai Akash</b></sub>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer)
